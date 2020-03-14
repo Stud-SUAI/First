@@ -1,0 +1,44 @@
+<HTML> 
+<HEAD> 
+<H1>Добро пожаловать на страницу о Шпицах!
+<TITLE> Шпицы</TITLE> 
+<META http-equiv="Content-Type" content="text/html" charset="windows-1251"> 
+<META content="follow", all name="robots"> 
+<META name="keywords" content="Фотографии, шпицов? померанский шпиц"> 
+<META name="description" content="Фотографии шпицов"> 
+<META name="title" content="Шпицы"> 
+</HEAD> 
+
+<BODY bgcolor=ABCDEF text=black > 
+
+<BR> <BR> 
+<H1> <center> Шпицы</center> </H1> 
+<BR> <BR> <BR> 
+
+<TABLE bgcolor=white border=2 width=900 align=center> 
+
+<TR width=300 height=120> 
+<TD align=left> Померанский шпиц (померанец) — декоративная порода собак. Померанского шпица часто путают с  
+немецким шпицем, но они отличаются внешне: у померанского шпица шерсть более ватная, мягкая и набивная,  
+мордочка короткая, а у немецкого преобладает остевая шерсть и морда, как правило, более вытянутая, лисья.  
+Кроме того, при регулярном расчёсывании раз в неделю померанцы почти не линяют. Померанский шпиц бывает  
+<I>миниатюрным (цверг-шпиц)</I> и <I>малым</I>, редко <I>средним</I>.</TD> 
+<TD align=center> <A href="Site/2.html"> Информация по уходу </A> </TD> 
+<TD align=center> <A href="http://mail.ru"> Электронная почта России</A> </TD> 
+</TR> 
+
+<TR> 
+<TD> <IMG src="Site/2.JPG" width=300 height=250> </TD> 
+<TD> <IMG src="Site/3.JPG" width=300 height=250> </TD> 
+<TD> <IMG src="Site/5.JPG" width=300 height=250> </TD> 
+</TR> 
+
+<TR width=300 height=120> 
+<TD colspan=2 align=center> <FONT size=7> Померанские шпицы </FONT> </TD> 
+<TD align=right valign=bottom> Наш адрес: <A href="mailto: Pomeranec@mail.ru"> Pomeranec@mail.ru</A> </TD> 
+</TR> 
+
+</TABLE> 
+
+</BODY> 
+</HTML>
